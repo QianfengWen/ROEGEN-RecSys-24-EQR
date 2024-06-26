@@ -1,0 +1,177 @@
+
+Europa-Park is a theme park in Rust, Germany between Freiburg-im-Breisgau and Strasbourg (France). Established in 1975, Europa-Park is primarily themed around European countries and it is Germany's largest and Europe's second most popular theme park resort.
+
+
+Understand[edit]
+Europa-Park is a seasonal theme park, part of a resort which consists of a theme park, five resort hotels and a camp site.
+During the summer season the park is open from 09:00 to 18:00, although opening hours are often extended by up to three hours during peak season (you can find the 'updated' closing time of the day you are visiting on the Europa Park website). Some rides open 30 minutes early for hotel guests. During the winter season the park is open from 11:00 to 19:00. For hotel guests selected rides open 1 hour early.
+The park has very high-capacity rides and can accommodate up to 50,000 guests a day. If you visit on a very busy day however, you should be prepared to wait up to 75 minutes before you can enter certain rides.
+In 2019, the park was awarded "the best amusement park in the world" prize for the 6th time, in the USA during the Golden Ticket Awards. It has been the case since 2014.
+Still being family owned by the Mack family who have generations of experience in the design and construction of roller coasters, the park leverages its location near major cities of France, Switzerland and Baden-Württemberg to attract visitors from all those places. There is for example a big Bastille Day parade during which the park is popular with French visitors and you can expect crowding during the school holidays of France, Baden-Württemberg and Switzerland.
+
+Get in[edit]
+By car[edit]
+Europa-Park is easily accessible by car. There are plenty of parking spaces for both day visitors and hotel guests. The Europa-Park website offers driving directions.
+Parking charge is €10 for Europa-Park visitors.
+
+By public transit[edit]
+Buses (service 7231) run at regular intervals between the park and the nearby Ringsheim railway station. This station is seen as the official stop for Europa-Park. Regional train services connect Ringsheim station to Offenburg and Freiburg im Breisgau. You can plan your journey to Europa-Park by train here.
+The Südbaden Europa-Park bus (service 7230) takes you directly from the Freiburg im Breisgau railway station to Europa-park.
+
+By plane[edit]
+Map of Europa-Park
+There are many airports near Europa-park, some of which have airport shuttles to the park:
+
+48.7794448.0805561 Airport Karlsruhe/Baden-Baden (FKB IATA). This is the airport closest to Europa-park. The shuttle service has to be booked at least 72 hours in advance. Ryanair flies to the airport.   
+47.597.5291672 Euroairport Basel-Mulhouse-Freiburg (BSL IATA,MLH IATA, EAP IATA) (about 60 min away by car). The shuttle service has to be booked at least 72 hours in advance. Swiss and easyJet fly here.   
+48.699.2219443 Stuttgart airport (STR IATA) (about 90 minutes away by car). The shuttle service has to be booked at least 72 hours in advance. Lufthansa flies to Stuttgart airport from almost anywhere in the world, Finnair flies from Helsinki (and 10 Asian destinations via Helsinki) to this airport and Eurowings also flies to Stuttgart.   
+Nearby airports with no shuttle services to Europa Park include:
+
+48.5419447.6344444 Strasbourg airport (SXB IATA) (about 45 min away by car). Shuttle-trains connect this airport to Strasbourg's main railway station. From there, take the train to Offenburg railway station. Regional trains connect Offenburg to Ringheim railway station (Europa Park's 'official' station).   
+47.6713899.5113895 Friedrichshafen Airport (FDH IATA) (about 120 min away by car). Public transport can be used to go from the airport to Europa Park; first, go to the Freiburg im Breigau railway station. From there you can either use train and bus or just the bus to reach Europa-park (see 'By transit').   
+Other airports that are within driving distance (or from where Europa Park is easily accessible by train or bus) are Frankfurt Airport and Zürich. If you have a private plane or charter, Lahr airport is also an option.
+For more information, visit the Europa Park website
+
+Tickets[edit]
+You can buy 1-day tickets, 2-day tickets (for 2 days within a 6-day period), and annual tickets. Prices as of Summer 2020:
+
+
+
+
+1-day ticket
+2-day ticket
+Annual ticket
+
+
+Children under 4
+free
+free
+free
+
+
+Children 4-11, Seniors 60+, visitors with disabilities
+€47
+€86.00
+€195.00 (€200 for seniors)
+
+
+Children on their birthday1
+free
+N/A
+N/A
+
+
+Adults
+€55
+€104
+€225
+
+
+Groups
+€46.00
+N/A
+N/A
+
+1 up to their 12th birthday
+
+Because of the size of the park, a 2-day ticket is an option you should consider. Especially during peak season, when it can get very busy, it's unlikely you'll be able to see the entire park (or ride all the rides you want to ride) in one day.
+
+Get around[edit]
+Europa-Park provides paper maps at the main entrance and hotel resort entrance, available in 3 languages (German, French and English) with traffic light coding for the day's expected visitor numbers (Green for quiet, Orange for moderate and Red for busy) and times for attractions including shows. These paper maps differentiate between the main season and winter season, depending on which attractions are available. There are also giant maps available park wide showing your current location and an e-map available on the Europa-Park app.
+There are queue time boards park wide, which are also shown in 3 languages (German, French and English), and on the Europa-Park app. There are also individual queue time boards available at most attractions. Show times are also available on the queue time boards, on the Europa-Park app and in front of the show venue.
+Europa-Park is relatively easy to navigate on the ground and takes roughly 20 minutes to traverse from the furthest side (such as Deutsche Allee) to the other (Spain). The pathways are typically flat and wide with a few inclines around quarters such as Scandinavia and Austria, as well as cobbles in Spain and Switzerland, making most of the park accessible to guests with mobility issues and families with young guests.
+There are 3 modes of transport available to all guests and are free to use. 
+
+Panoramabahn - Opened in 1975, the Panoramabahn is a miniature steam railway with a circuit which stops in Germany, England, Spain and Russia. It may operate up to 4 trains and runs regularly until park close.
+Monorail-bahn -  Opened in 1990, the Monorail-bahn runs from Luxembourg to Island and provides views from the middle to the back of the park (Russia, England, Abenteuerland, Scandinavia, Portugal, Island). It may operate up to 9 trains and it runs regularly until park close.
+The EP-Express - Opened in 1995 in conjunction with Hotel El Andaluz, the EP-Express operates as a private form of transport for guests staying in the resort hotels. The circuit stops at Alexanderplatz in Deutsche Allee, Hotels, Spain and Greece. It may operate up to 3 trains and provides excellent views of the park and hotels. Whilst park guests are allowed to use the EP-Express and exit at Hotel Resort, they cannot re-enter and must go through the resort entrance adjacent to the Spain quarter. Trains run regularly throughout the day and are available upon request at the main entrance and Hotels for hotel guests after park close.
+Outside the park, there is a private shuttle service on request for hotel guests travelling from the Europa-Park Camp Resort and Tipi Village to the 5 resort hotels or vice versa.
+
+See and do[edit]
+Europa-park is themed mainly around European countries. There are 54 attractions, 11 of which are roller coasters, and many shows. The park is beautifully themed with great attention to detail so you should definitely take some time to just look around and enjoy the theming and landscaping.
+The areas themed around European countries are: Germany, England, France, Greece, Netherlands, Iceland, Ireland, Italy, Austria, Portugal, Russia, Switzerland, Scandinavia and Spain. The other themed areas are: Adventure Land and Grimm's Enchanted Forest. The European country area's feature architecture, decoration (and vegetation) characteristic of that country. Adventure Land is themed after the African jungle and jungle villages, Grimm's Enchanted Forest displays a number of famous fairy tales and Children's World is especially fun for the younger guests.
+
+Attractions[edit]
+Europa-park has many attractions suited for almost everyone. This is a small selection of the rides in the park.
+
+Roller coasters[edit]
+Europa-park is well known for its roller coasters and it has 11 of them, ranging from small kiddie coasters to the hyper coaster 'Silver Star'.
+
+48.2687.720041 Silver Star. This 73-m-high (239 ft) coaster has a maximum speed of 127 km/h (78.9 mph) and is the largest roller coaster in Europa-park. It's in the 'France' section of the park and within its entrance hall are a coffee shop, gift shop and a small museum that features a life-size replica of a Mercedes-Benz Formula One car. This coaster used to be the highest in Europe.   (updated Jun 2018)
+48.2647227.7197222 Euro-Mir. A unique spinning coaster with dark-ride elements. The Mir space station training module is located above the queue for this ride. It's in the 'Russia' section of the park.   (updated Jun 2018)
+48.26137.719273 Wodan Timbur Coaster. Europa-park's newest coaster. A 40-m-high (131 ft) wooden coaster that reaches speeds of up to 100 km/h (62.1 mph). It has a beautifully themed queue and is in the 'Iceland' section of the park.   (updated Jun 2018)
+48.26247.718474 Blue Fire. A coaster that is launched with 100 km/h (62.1 mph) and Europa-park's only coaster with inversions. It's in the 'Iceland' section of the park.   (updated Jun 2018)
+ Atlantica Supersplash. One of the two water coasters in the park. It's in the 'Portugal' section of the park; the queue is themed as an old trade ship and a harbour. (updated Jun 2018)
+ Poseidon. The other water coaster. This one has more coaster elements (a larger track) than 'Atlantica Supersplash' and is in the 'Greece' section of the park. Its station building is themed like a Greek temple, part of the track goes through Atlantis-like ruins. (updated Jun 2018)
+Other coasters include a bob-sled and an indoor coaster.
+
+Dark rides[edit]
+ Ghost Castle. A spooky dark ride in the 'Italy' section of the park. (updated Jun 2018)
+ Piraten in Batavia. A pirate themed dark ride that is reminiscent of the 'Pirates of the Caribbean' ride in the Disney parks. It's a relatively well hidden ride, but well worth the 'search'. It's in the 'Netherlands' section of the park. (updated Jun 2018)
+ Atlantis Adventure. An interactive dark ride themed around Atlantis, in the 'Greece' section of the park. (updated Jun 2018)
+There are a number of other dark rides in the park including one themed around dinosaurs in the 'France' area of the park.
+
+Water attractions[edit]
+Besides the two water coasters there are many other water attractions including:
+
+Jungle Rafts - a jungle-themed boat ride on the lake in the 'Adeventure Land' section of the park.
+Fjord Rafing - a river rapids ride that goes through caverns and past waterfalls. It's in the 'Scandinavia' section of the park.
+Tirol Log Flume - a log flume ride in the 'Austria' section of the park. It 'meets' with the powered roller coaster 'Alpenexpress' (also in 'Austria') several times.
+Whale Adventures Splash Tours - a splash battle themed like a harbour village in 'Iceland'.
+Other attractions[edit]
+There are many other attractions in the park such as merry-go-rounds, car-rides, walkthroughs, an observation tower and a 4D-cinema.
+
+Shows[edit]
+Sixteen shows play in Europa-park ranging from dancing fountains to an ice-skating show, including:
+
+Inspired by the panda - a show presented in collaboration with the Chinese National Circus about the friendship between humans and pandas in the Asian restaurant Bamboe baai.
+Flamenco show - in which the 'Ballet Espanol' from Valencia dances Flamenco.
+Surpr'Ice - an ice-skating show about a journey to Rio de Janeiro.
+Waterloo - a musical for the whole family in the recreated Globe Theater, in the 'England' section of the park.
+Besides these shows, there are many other events throughout the day such as diving shows in 'Portugal' and a parade that goes through different sections of the park.
+
+Buy[edit]
+Shops are abundant. Besides the regular souvenir and candy shops, most country themed sections of the park have shops that sell things typical for the country that section represents. Many attractions also have gift shops that sell things related to the ride. These shops are usually at the exit of the attractions but you can also enter them if you didn't ride that attraction. There are no main shopping areas in the park.
+
+Eat[edit]
+Food is generally rather expensive. If you are on a tight budget, your best bet is to bring your food with you.
+The park restaurants offer a range of vegetarian and vegan meals, and gluten-free dishes. 
+
+Sleep[edit]
+The Europa-park resort offers five hotels, a large camp resort and a guest house. They are all very close to the park.
+
+Hotels and guest house[edit]
+The five hotels at the Europa-park resort are (superior) 4-star hotels and as heavily themed as the park. Every hotel room has standard shower, toilet, telephone, hair-dryer, TV, and free high-speed internet access. Most hotel rooms also have standard air-conditioning and a safe. The hotels are often fully booked. If you want to stay at the Europa-park resort you should book well in advance.
+
+ Hotel Bell Rock. Europa-park's newest hotel has 225 rooms (including 35 themed suites), a large hotel park, swimming pool, 3 restaurants, 2 bars and 2 spas. 
+ Hotel Colloseo. Themed around ancient Rome, it features a (almost live size) replica of the Colliseum and a large plaza. 324 rooms (including 22 themed suites), a large swimming pool, 3 restaurants, 2 bars/cafés and a spa. 
+ Hotel Santa Isabel. Built in the style of an old Portuguese monastery. 66 rooms, a swimming pool, 2 restaurants and a spa. 
+ Hotel El Andaluz. Built in Andalusian style, this hotel has 182 rooms (including 10 themed suites), a tropical garden, a swimming pool with sauna, a restaurant and a bar. 
+ Hotel Castillo Alcazar. Built in the style of a Spanish castle from the Middle Ages. This hotel has 120 rooms (including 8 themed suites) and shares the garden, swimming pool and sauna with Hotel El Andaluz. It does have its own restaurant and bar/lounge. 
+ Circus Rolando (next to the main entrance). It's not as luxurious as the hotels but also less expensive. The guest house doesn't have any facilities but you are allowed to use the pool, sauna, restaurants and bars of Hotel El Andaluz and Castillo Alcazar during your stay at the guest house. 
+For reservations and questions concerning the hotels +49 7822 / 860 5679.
+
+Camp resort[edit]
+Europa-park's camp resort is themed like a western village. You can stay in a tipi, log cabin, covered wagon or bring your own tent, camper or caravan. The bungalow park has 458 beds, the camp site has 200 sites for tents and caravans. The camp resort is 5 minutes (by foot) away from the park, and parking is free. Besides the regular camping facilities (e.g. toilets, showers), there is also a swimming lake, tennis court, badminton, beach-volleyball and fireplaces for grilling (firewood is at your disposal for free).
+For reservations and questions concerning the Camp Resort +49 7822 / 860 55 66.
+
+Other options[edit]
+Because Europa-park is such a popular destination and also because Europa-park is near the Black Forest, another popular tourist destination, there are many other hotels and camp sites nearby or not too far away. If you would like to stay at a camp site/resort, you should definitely consider staying in the Black Forest.
+
+Go next[edit]
+
+
+
+
+
+
+
+
+
+This city travel guide to Europa-Park is a usable article. It has information on how to get there and on restaurants and hotels. An adventurous person could use this article, but please feel free to improve it by editing the page.
+
+
+
+
+
+Retrieved from "https://en.wikivoyage.org/w/index.php?title=Europa-Park&oldid=4889701"
