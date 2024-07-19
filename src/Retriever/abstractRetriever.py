@@ -9,7 +9,7 @@ class AbstractRetriever(abc.ABC):
     """
     Abstract base dense retriever class.
     """
-    def __init__(self, query_path: str, output_path: str, chunks_dir: str, num_chunks: int = 3, model: LMEmbedder = None):
+    def __init__(self, query_path: str, output_path: str, chunks_dir: str, num_chunks: int = 5, model: LMEmbedder = None):
         self.model = model
         self.query_path = query_path
         self.output_path = output_path
